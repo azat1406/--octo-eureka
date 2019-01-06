@@ -1,5 +1,6 @@
+echo "# --octo-eureka" >> README.md 
 git init 
-git add README.md 
-git commit -m "first commit" 
-git remote add origin https://github.com/azat1406/--octo-eureka.git
- git push -u мастер оригинала
+README.md 
+ -m "first commit"
+ https://github.com/azat1406/--octo-eureka.git
+ мастер оригинала
